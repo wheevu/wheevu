@@ -89,3 +89,6 @@ jjajangmyeon (짜장면) and bitter melon soup (canh khổ qua)🍴
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN2emttbGM3NGh0NXpxaGVrNGJrem00OHE1bjFobzc0dXR0NXJvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oojvi3IlCZsRyS8as3/giphy.gif" width = 50%/>
 </p>
+<p align="center">
+  <sub><em><span style="color: gray;">Code compiles better when Huh Yunjin is singing. I think.</span></em></sub>
+</p>

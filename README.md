@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-I build end-to-end AI systems where <b>language</b>, <b>data</b>, and <b>infrastructure</b> collide.<br/>
+I build end-to-end AI systems where <b>language</b>, <b>data</b>, and <b>infrastructure</b> meet.<br/>
 Speech recognition, NLP pipelines, and ML systems that survive contact with reality (or at least my tests).
 </p>
 
@@ -24,6 +24,7 @@ Speech recognition, NLP pipelines, and ML systems that survive contact with real
 - 🔊 Automatic Speech Recognition for Vietnamese
 - 🧠 NLP systems with linguistic grounding
 - 🏗️ Data-centric ML & MLOps
+- 🤖 Efficient AI
 - 🌏 Cross-cultural deployment (VN · KR · global)
 
 Former English teacher (IELTS Writing).  
@@ -58,6 +59,8 @@ I used to debug humans; now I help machines make better mistakes.
   <img src="https://img.shields.io/badge/ROUGE-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BERTScore-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/WER-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quantization-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Inference--Optimization-black?style=for-the-badge"/>
 </p>
 
 

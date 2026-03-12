@@ -7,7 +7,7 @@
   CS student • former English teacher <br/>
 </p>
 
-- **Tech**: mostly systems and MLOps. Learning by building.
+- **Tech**: systems, developer tools, and applied ML. Learning by building.
 - **Community work**: Model UN, environmental & educational initiatives, mentoring, student clubs
-- **People stuff**: spent a couple years teaching English and speaking to audiences
-- **Interests**: rock/kpop, lore (fiction/mythology), and occasional philosophical detours
+- **People stuff**: spent a few years teaching English and developed solid public speaking skills
+- **Interests**: rock, kpop, lore (fiction/mythology), and the occasional philosophical detour

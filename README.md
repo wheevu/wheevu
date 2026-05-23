@@ -17,7 +17,7 @@ I was also canonically an English teacher for a couple years. This, however, doe
 <summary><strong>What I'm into right now</strong></summary>
 <br>
 
-- Systems programming in Rust/C++ (compilers, CLI tools, anything low-level and satisfying)
+- Systems programming in Rust/C++
   - [`muninn`](https://github.com/wheevu/muninn) — a statically typed language that compiles to bytecode and runs on a stack VM
   - [`repo-context`](https://github.com/wheevu/repo-context) — CLI that turns a repo into structured context packs
 

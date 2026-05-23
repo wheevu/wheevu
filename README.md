@@ -13,7 +13,9 @@ I was also canonically an English teacher for a couple years. This, however, doe
 
 ---
 
-### What I'm into right now
+<details>
+<summary><strong>What I'm into right now</strong></summary>
+<br>
 
 - Systems programming in Rust/C++ (compilers, CLI tools, anything low-level and satisfying)
   - [`muninn`](https://github.com/wheevu/muninn) — a statically typed language that compiles to bytecode and runs on a stack VM
@@ -26,14 +28,18 @@ I was also canonically an English teacher for a couple years. This, however, doe
 
 - Scratching my own itch
   - [`yt-harvester`](https://github.com/wheevu/yt-harvester) — CLI to pull metadata, transcripts, and comments from YouTube videos. I use this thing on the daily
-  - [`hangul-destroyer`](https://github.com/wheevu/hangul-destroyer) — my Korean learning thing
-  - [`neetcode`](https://github.com/wheevu/neetcode) — auto-synced progress from Neetcode
+  - [`hangul-destroyer`](https://github.com/wheevu/hangul-destroyer) — my Korean learning thing.
+  - [`neetcode`](https://github.com/wheevu/neetcode) — auto-synced progress from Neetcode. you can say it's pretty neat. I'll see myself out 🚪
 
 - The flagships
   - [`synergy-flow`](https://github.com/wheevu/synergy-flow) — enterprise-grade agentic SaaS substrate for Kanban execution, AI project Intelligence, RBAC workspaces, real-time telemetry, and executive-ready entropy mitigation
   - [`bathroom-oracle`](https://github.com/wheevu/bathroom-oracle) — consult the oracle for wisdom. the next big thing.
 
-### Open source contributions
+</details>
+
+<details>
+<summary><strong>Open source contributions</strong></summary>
+<br>
 
 Small but earnest contributions to cool projects:
 
@@ -41,3 +47,4 @@ Small but earnest contributions to cool projects:
 - [Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) — open source fighting game engine supporting MUGEN resources
 - [tiled](https://github.com/mapeditor/tiled) — the tilemap editor
 
+</details>

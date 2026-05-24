@@ -1,5 +1,9 @@
-### Hey! I'm Josh / Huy Vũ 👋
-🌐 [wheevu.dev](https://wheevu.dev)
+<h3 align="center">Hey! I'm Josh / Huy Vũ 👋</h3>
+
+<p align="center">
+  <a href="https://wheevu.dev">website</a> ·
+  <code>discord: wheevu</code>
+</p>
 
 ---
 
@@ -17,9 +21,9 @@ I was also canonically an English teacher for a couple years. This, however, doe
 <summary><strong>What I'm into right now</strong></summary>
 <br>
 
-- Systems programming in Rust/C++
+- Systems programming
   - [`muninn`](https://github.com/wheevu/muninn) — a statically typed language that compiles to bytecode and runs on a stack VM
-  - [`repo-context`](https://github.com/wheevu/repo-context) — CLI that turns a repo into structured context packs
+  - [`repo-context`](https://github.com/wheevu/repo-context) — CLI for packaging repos structured context
 
 - ML / AI tooling
   - [`focus-lock-rs`](https://github.com/wheevu/focus-lock-rs) — tracks vertical fancams from landscape video (yes, for real)
@@ -28,7 +32,7 @@ I was also canonically an English teacher for a couple years. This, however, doe
 
 - Scratching my own itch
   - [`yt-harvester`](https://github.com/wheevu/yt-harvester) — CLI to pull metadata, transcripts, and comments from YouTube videos. I use this thing on the daily
-  - [`hangul-destroyer`](https://github.com/wheevu/hangul-destroyer) — my Korean learning thingy!
+  - [`hangul-destroyer`](https://github.com/wheevu/hangul-destroyer) — my Korean learning thingy
   - [`neetcode`](https://github.com/wheevu/neetcode) — auto-synced progress from Neetcode. you can say it's pretty neat. I'll see myself out
 
 - The flagships

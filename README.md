@@ -31,6 +31,7 @@ I was also canonically an English teacher for a couple years. This, however, doe
   - [`episodic-memory-pipeline`](https://github.com/wheevu/episodic-memory-pipeline) — gives local agents long-term memory with episodic and semantic data
 
 - Scratching my own itch
+  - [`hangul-hud`](https://github.com/wheevu/hangul-hud) — floating Korean keyboard overlay for macOS. shows up when you need it, disappears when you don't
   - [`yt-harvester`](https://github.com/wheevu/yt-harvester) — CLI to pull metadata, transcripts, and comments from YouTube videos. I use this thing on the daily
   - [`hangul-destroyer`](https://github.com/wheevu/hangul-destroyer) — my Korean learning thingy
   - [`neetcode`](https://github.com/wheevu/neetcode) — auto-synced progress from Neetcode. you can say it's pretty neat. I'll see myself out

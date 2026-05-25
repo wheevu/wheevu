@@ -20,8 +20,10 @@ I was also canonically an English teacher for a couple years. This, however, doe
 <details>
 <summary><strong>What I'm into right now</strong></summary>
 <br>
+  
+*Mostly `Rust`, `C++`, `Go`, and `TypeScript` these days. Some `Swift` or `Elixir` for the bit. Well, `Python` too, but everybody knows Python.*
 
-- Systems programming
+- Systems
   - [`muninn`](https://github.com/wheevu/muninn) — a statically typed language that compiles to bytecode and runs on a stack VM
   - [`repo-context`](https://github.com/wheevu/repo-context) — CLI for packaging repos structured context
 

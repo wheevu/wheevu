@@ -2,14 +2,17 @@
 
 <p align="center">
   <a href="https://wheevu.dev">website</a> ·
-  <code>discord: wheevu</code>
+  <code>discord: wheevu</code> ·
+  wheevu@proton.me
 </p>
+
+> *Finishing up my final year of CS, out in November. Open to roles starting August, remote or HCMC-based. Let's talk!*
 
 ---
 
 I'm a creative person first; aspiring software engineer second. Based in Vietnam 🇻🇳
 
-I started coding seriously in late 2025, learning git properly for the first time, and somehow ended up grinding Leetcode and humbly contributing to open source as of late.
+I started coding seriously in late 2025, actually learning git properly, and somehow ended up grinding Leetcode and humbly contributing to open source as of late.
 
 When I'm not at the keyboard, I'm probably singing, playing guitar, or [drawing](https://instagram.com/josh.inthesketch). I might like K-pop a bit.
 

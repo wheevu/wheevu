@@ -1,4 +1,5 @@
-<h3 align="center">Hey! I'm Josh / Huy Vũ 👋</h3>
+<h3 align="center">Hey! I'm Josh / Huy Vũ 👋🏻</h3>
+<p align="center"> ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</p>
 
 <p align="center">
   <a href="https://wheevu.dev">website</a> ·
@@ -6,22 +7,21 @@
   wheevu@proton.me
 </p>
 
-> *Finishing up my final year of CS, out in November. Open to roles starting August, remote or HCMC-based. Let's talk!*
-
+> ***Currently:** reading **The Murder of Roger Ackroyd** & learning Korean!*
 ---
 
-I'm a creative person first; aspiring software engineer second. Based in Vietnam 🇻🇳
+**Creative person & aspiring software engineer**. Based in Vietnam 🇻🇳
 
-I started coding seriously in late 2025, actually learning git properly, and somehow ended up grinding Leetcode and humbly contributing to open source as of late.
+I started coding seriously in late 2025, and somehow ended up grinding Leetcode and humbly contributing to open source as of late.
 
-When I'm not at the keyboard, I'm probably singing, playing guitar, or [drawing](https://instagram.com/josh.inthesketch). I might like K-pop a bit.
+Outside of programming, I also enjoy singing, playing guitar, or [drawing](https://instagram.com/josh.inthesketch). I might like K-pop a bit.
 
 I was also canonically an English teacher for a couple years. This, however, does not exempt me from typos...
 
 ---
 
 <details>
-<summary><strong>What I'm into right now</strong></summary>
+<summary><strong>Things I worked on</strong></summary>
 
 - Systems
   - [`muninn`](https://github.com/wheevu/muninn) `Rust` — a statically typed language that compiles to bytecode and runs on a stack VM
@@ -45,13 +45,13 @@ I was also canonically an English teacher for a couple years. This, however, doe
 </details>
 
 <details>
-<summary><strong>Open source contributions</strong></summary>
+<summary><strong>OSS I contributed to</strong></summary>
 <br>
-
-Small but earnest contributions to cool projects:
 
 - [RustPython](https://github.com/RustPython/RustPython) `Rust` — Python interpreter written in Rust
 - [Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) `Go` — fighting game engine supporting MUGEN resources
 - [tiled](https://github.com/mapeditor/tiled) `C++` — the tilemap editor
+
+Small, but *earnest!*
 
 </details>

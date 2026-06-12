@@ -7,7 +7,7 @@
   wheevu@proton.me
 </p>
 
-> ***Currently:** reading **The Murder of Roger Ackroyd** & learning Korean!*
+> ***Currently:** reading **The Murder of Roger Ackroyd** & 한글 배우고 있어요!*
 ---
 
 **Creative person & aspiring software engineer**. Based in Vietnam 🇻🇳

@@ -14,7 +14,7 @@
 
 I started coding seriously in late 2025. LeetCode is the light, and open source is the future!
 
-Outside of programming, I enjoy rock bands, murder mysteries, and [drawing people](https://instagram.com/josh.inthesketch)! I might also like K-pop a bit.
+Outside of programming, I enjoy rock bands, murder mysteries, 짜장면, and [drawing people](https://instagram.com/josh.inthesketch)! I might also like K-pop a bit.
 
 I was also canonically an English teacher for a couple years. Sadly, this does not exempt me from typos...
 

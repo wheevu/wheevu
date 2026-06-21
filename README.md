@@ -35,7 +35,7 @@ I was also canonically an English teacher for a couple years. Sadly, this does n
 - Scratching my own itch
   - [`hangul-hud`](https://github.com/wheevu/hangul-hud) `Swift` — floating Korean keyboard overlay for macOS
   - [`yt-harvester`](https://github.com/wheevu/yt-harvester) `Go` — CLI to pull metadata, transcripts, and comments from YouTube videos
-  - [`hangul-destroyer`](https://github.com/wheevu/hangul-destroyer) `TypeScript` — Korean vocabulary tracker
+  - [`hangul-destroyer`](https://github.com/wheevu/hangul-destroyer) `TypeScript` — Korean reviewer
   - [`neetcode`](https://github.com/wheevu/neetcode) `C++` — auto-synced progress from Neetcode
 
 - Flagships

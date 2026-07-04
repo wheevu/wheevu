@@ -12,7 +12,7 @@
 
 **Creative person & aspiring software engineer**. Based in Vietnam 🇻🇳
 
-I started coding seriously in late 2025. LeetCode is the light, and open source is the future!
+I started coding seriously in late 2025. LeetCode is the light, and open-source is the future!
 
 Outside of programming, I enjoy rock bands, murder mysteries, 짜장면, and [drawing people](https://instagram.com/josh.inthesketch)! I might also like K-pop a bit.
 
@@ -26,7 +26,7 @@ I was also canonically an English teacher for a couple years. Sadly, this does n
 - Systems
   - [`raft-kv`](https://github.com/wheevu/raft-kv) `Rust` — Raft-backed key-value store with TCP transport, deterministic simulation, and crash/failover recovery
   - [`muninn`](https://github.com/wheevu/muninn) `Rust` — a statically typed language that compiles to bytecode and runs on a stack VM
-  - [`repo-context`](https://github.com/wheevu/repo-context) `Rust` — CLI for packaging repos structured context
+  - [`repo-context`](https://github.com/wheevu/repo-context) `Rust` — CLI for packaging structured repos context
 
 - Machine learning
   - [`focus-lock-rs`](https://github.com/wheevu/focus-lock-rs) `Rust` — tracks vertical fancams from landscape video (yes, for real)

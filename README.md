@@ -24,6 +24,7 @@ I was also canonically an English teacher for a couple years. Sadly, this does n
 <summary><strong>Things I worked on</strong></summary>
 
 - Systems
+  - [`raft-kv`](https://github.com/wheevu/raft-kv) `Rust` — Raft-backed key-value store with TCP transport, deterministic simulation, and crash/failover recovery
   - [`muninn`](https://github.com/wheevu/muninn) `Rust` — a statically typed language that compiles to bytecode and runs on a stack VM
   - [`repo-context`](https://github.com/wheevu/repo-context) `Rust` — CLI for packaging repos structured context
 

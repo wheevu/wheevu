@@ -7,14 +7,15 @@
   wheevu@proton.me
 </p>
 
-> ***Currently:** reading **The Murder of Roger Ackroyd** & 한글 배우고 있어요!*
+*지금: 오랜만에 한국어 단어 복습 중… 요즘 풀타임 프로그램도 하고 있어요!* (ㅎ.ㅎ)
+
 ---
 
-**Creative person & aspiring software engineer**. Based in Vietnam 🇻🇳
+**Doomed creative & aspiring software engineer**. Based in Vietnam 🇻🇳
 
-I started coding seriously in late 2025. LeetCode is the light, and open-source is the future!
+LeetCode is the light, open-source is the way, don't trust your unit tests.
 
-Outside of programming, I enjoy rock bands, murder mysteries, 짜장면, and [drawing people](https://instagram.com/josh.inthesketch)! I might also like K-pop a bit.
+Outside of programming, I enjoy rock bands, murder mysteries (in literature), hip hop, 짜장면, 아아 at 7:30 in the morning, and [drawing people](https://instagram.com/josh.inthesketch)! I might also like K-pop a bit.
 
 I was also canonically an English teacher for a couple years. Sadly, this does not exempt me from typos...
 
@@ -24,9 +25,12 @@ I was also canonically an English teacher for a couple years. Sadly, this does n
 <summary><strong>Things I worked on</strong></summary>
 
 - Systems
+  - [`norn`](https://github.com/wheevu/norn) `C++` — concurrency lab covering bounded SPSC/MPMC queues, hazard pointers, memory ordering, stress tests, and benchmarks
+  - [`weir`](https://github.com/wheevu/weir) `C++` — Linux-first event ingestion service with nonblocking TCP/epoll, bounded queues, persistence, replay, and metrics
   - [`raft-kv`](https://github.com/wheevu/raft-kv) `Rust` — Raft-backed key-value store with TCP transport, deterministic simulation, and crash/failover recovery
   - [`muninn`](https://github.com/wheevu/muninn) `Rust` — a statically typed language that compiles to bytecode and runs on a stack VM
-  - [`repo-context`](https://github.com/wheevu/repo-context) `Rust` — CLI for packaging structured repos context
+  - [`orda-book`](https://github.com/wheevu/orda-book) `C++` — limit order book with matching, replay, benchmarks, and tests
+  - [`repo-context`](https://github.com/wheevu/repo-context) `Rust` — CLI for packaging structured repo context
 
 - Machine learning
   - [`focus-lock-rs`](https://github.com/wheevu/focus-lock-rs) `Rust` — tracks vertical fancams from landscape video (yes, for real)
@@ -39,8 +43,12 @@ I was also canonically an English teacher for a couple years. Sadly, this does n
   - [`hangul-destroyer`](https://github.com/wheevu/hangul-destroyer) `TypeScript` — Korean reviewer
   - [`neetcode`](https://github.com/wheevu/neetcode) `C++` — auto-synced progress from Neetcode
 
-- Flagships
-  - [`synergy-flow`](https://github.com/wheevu/synergy-flow) `TypeScript` `Go` — enterprise-grade agentic SaaS substrate for Kanban execution, AI project Intelligence, RBAC workspaces, real-time telemetry, and executive-ready entropy mitigation
+- Games
+  - [`delve`](https://github.com/wheevu/delve) — first-person terminal roguelike with procedural runs, authored campaign content, combat, and persistent world state
+
+- Other things
+  - [`naver-lens`](https://github.com/wheevu/naver-lens) `Node.js` — NAVER Vietnam AI Hackathon project; built the backend and handled Docker/Linux cloud deployment
+  - [`synergy-flow`](https://github.com/wheevu/synergy-flow) `TypeScript` `Go` — enterprise-grade agentic SaaS substrate for Kanban execution, AI project intelligence, RBAC workspaces, real-time telemetry, and executive-ready entropy mitigation
   - [`bathroom-oracle`](https://github.com/wheevu/bathroom-oracle) `Elixir` — consult the oracle for wisdom. the next big thing
 
 </details>

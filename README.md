@@ -15,9 +15,9 @@
 
 LeetCode is the light, open-source is the way, don't trust your unit tests.
 
-Outside of programming, I enjoy rock bands, murder mysteries (in literature), hip hop, 짜장면, 아아 at 7:30 in the morning, and [drawing people](https://instagram.com/josh.inthesketch)! I might also like K-pop a bit.
+Building a small pile of systems software over at [`stra-ta`](https://github.com/stra-ta). Things have started talking to each other. This is probably fine.
 
-I was also canonically an English teacher for a couple years. Sadly, this does not exempt me from typos...
+Outside of programming, I enjoy rock bands, murder mysteries (in literature), hip hop, 짜장면, 아아 at 7:30 in the morning, and [drawing people](https://instagram.com/josh.inthesketch)! I might also like K-pop a bit.
 
 ---
 
@@ -26,13 +26,14 @@ I was also canonically an English teacher for a couple years. Sadly, this does n
 
 * Systems
 
-  * [`charlatan`](https://github.com/wheevu/charlatan) `C++` `Linux` — virtual streaming character device with blocking/nonblocking I/O, poll/epoll readiness, ioctl controls, fault injection, and a C++20 validation harness
-  * [`vanta`](https://github.com/wheevu/vanta) `CUDA` `Python` — CUDA kernel validation lab with fault injection, failure replay and minimization, Compute Sanitizer, and mutation testing
-  * [`norn`](https://github.com/wheevu/norn) `C++` — concurrency lab covering SPSC/MPMC queues, hazard pointers, memory ordering, CPU affinity, cache-line behavior, contention, stress tests, and hardware-aware benchmarks
-  * [`weir`](https://github.com/wheevu/weir) `C++` — Linux event-ingestion service exploring epoll/io_uring, bounded concurrency, persistence, replay, backpressure, and behavior under load
-  * [`orda-book`](https://github.com/wheevu/orda-book) `C++` — limit order book with price-time matching, multiple storage backends, differential testing, fuzzing, allocation campaigns, and latency/throughput benchmarks
-  * [`raft-kv`](https://github.com/wheevu/raft-kv) `Rust` — Raft-backed KV store over raw TCP with deterministic fault injection, crash recovery, linearizability checking, and LSM storage
-  * [`muninn`](https://github.com/wheevu/muninn) `Rust` — statically typed language with a bytecode VM, Cranelift JIT, language tooling, and a tiny differentiable tensor runtime
+  * [`norn`](https://github.com/stra-ta/norn) `C++` — concurrency structures around atomics, memory ordering, hazard pointers, contention, and hardware-aware benchmarks
+  * [`kiln`](https://github.com/stra-ta/kiln) `Rust` — reproducible local experiment runner for systems software
+  * [`weir`](https://github.com/stra-ta/weir) `C++` — Linux event-processing engine exploring nonblocking I/O, bounded concurrency, durability, and behavior under load
+  * [`orda-book`](https://github.com/stra-ta/orda-book) `C++` — limit order book with price-time matching, multiple backends, fuzzing, differential testing, and latency benchmarks
+  * [`raft-kv`](https://github.com/stra-ta/raft-kv) `Rust` — Raft-backed KV store over raw TCP with deterministic faults, crash recovery, linearizability checking, and LSM storage
+  * [`charlatan`](https://github.com/stra-ta/charlatan) `C++` `Linux` — virtual streaming character device and C++20 test harness for the kernel/userspace boundary
+  * [`vanta`](https://github.com/stra-ta/vanta) `CUDA` — CUDA kernel validation with fault injection, replay, Compute Sanitizer, and mutation testing
+  * [`muninn`](https://github.com/wheevu/muninn) `Rust` — statically typed language with a bytecode VM, Cranelift JIT, tooling, and a tiny differentiable tensor runtime
   * [`repo-context`](https://github.com/wheevu/repo-context) `Rust` — CLI for packaging structured repo context
 
 * Machine learning
@@ -55,7 +56,7 @@ I was also canonically an English teacher for a couple years. Sadly, this does n
 * Other things
 
   * [`naver-lens`](https://github.com/wheevu/naver-lens) `Node.js` — NAVER Vietnam AI Hackathon project; built the backend and handled Docker/Linux cloud deployment
-  * [`synergy-flow`](https://github.com/wheevu/synergy-flow) `TypeScript` `Go` — enterprise-grade agentic SaaS substrate for Kanban execution, AI project intelligence, RBAC workspaces, real-time telemetry, and executive-ready entropy mitigation
+  * [`synergy-flow`](https://github.com/wheevu/synergy-flow) `TypeScript` `Go` — agentic project-management thing that grew considerably larger than intended
   * [`bathroom-oracle`](https://github.com/wheevu/bathroom-oracle) `Elixir` — consult the oracle for wisdom. the next big thing
 
 </details>

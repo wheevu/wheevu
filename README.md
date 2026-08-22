@@ -26,10 +26,12 @@ I was also canonically an English teacher for a couple years. Sadly, this does n
 
 * Systems
 
-  * [`orda-book`](https://github.com/wheevu/orda-book) `C++` — limit order book with price-time matching, multiple storage backends, differential testing, fuzzing, and latency/throughput benchmarks
-  * [`norn`](https://github.com/wheevu/norn) `C++` — concurrency lab covering bounded SPSC/MPMC queues, hazard pointers, memory ordering, stress tests, and benchmarks
+  * [`charlatan`](https://github.com/wheevu/charlatan) `C++` `Linux` — virtual streaming character device with blocking/nonblocking I/O, poll/epoll readiness, ioctl controls, fault injection, and a C++20 validation harness
+  * [`vanta`](https://github.com/wheevu/vanta) `CUDA` `Python` — CUDA kernel validation lab with fault injection, failure replay and minimization, Compute Sanitizer, and mutation testing
+  * [`norn`](https://github.com/wheevu/norn) `C++` — concurrency lab covering SPSC/MPMC queues, hazard pointers, memory ordering, CPU affinity, cache-line behavior, contention, stress tests, and hardware-aware benchmarks
   * [`weir`](https://github.com/wheevu/weir) `C++` — Linux event-ingestion service exploring epoll/io_uring, bounded concurrency, persistence, replay, backpressure, and behavior under load
-  * [`raft-kv`](https://github.com/wheevu/raft-kv) `Rust` — Raft-backed key-value store with TCP transport, deterministic fault injection, persistence, and crash/failover recovery
+  * [`orda-book`](https://github.com/wheevu/orda-book) `C++` — limit order book with price-time matching, multiple storage backends, differential testing, fuzzing, allocation campaigns, and latency/throughput benchmarks
+  * [`raft-kv`](https://github.com/wheevu/raft-kv) `Rust` — Raft-backed KV store over raw TCP with deterministic fault injection, crash recovery, linearizability checking, and LSM storage
   * [`muninn`](https://github.com/wheevu/muninn) `Rust` — statically typed language with a bytecode VM, Cranelift JIT, language tooling, and a tiny differentiable tensor runtime
   * [`repo-context`](https://github.com/wheevu/repo-context) `Rust` — CLI for packaging structured repo context
 

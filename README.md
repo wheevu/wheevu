@@ -11,13 +11,13 @@
 
 ---
 
-**Doomed creative & aspiring software engineer**. Based in Vietnam 🇻🇳
+**Doomed creative & maybe-one-day software engineer**. Based in Vietnam 🇻🇳
 
 LeetCode is the light, open-source is the way, don't trust your unit tests.
 
-Building a small pile of systems software over at [`stra-ta`](https://github.com/stra-ta). Things have started talking to each other. This is probably fine.
+Building a small pile of systems software over at [`stra-ta`](https://github.com/stra-ta). I can hear them talking to each other. This is probably fine.
 
-Outside of programming, I enjoy rock bands, murder mysteries (in literature), hip hop, 짜장면, 아아 at 7:30 in the morning, and [drawing people](https://instagram.com/josh.inthesketch)! I might also like K-pop a bit.
+Outside of programming, I enjoy rock bands, murder mysteries (in literature), hip hop, 짜장면, 아아 at 7:22 in the morning, and [drawing people](https://instagram.com/josh.inthesketch)! I might also like K-pop a bit.
 
 ---
 

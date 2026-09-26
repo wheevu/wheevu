@@ -18,6 +18,3 @@
 Fume-coding every day. LeetCode is the light, pointers give me nightmares, don't trust unit tests.
 
 In real life, I find joy in: 짜장면, phở bò, morning americanos, [drawing my shaylas](https://instagram.com/josh.inthesketch), and some good ol' parasocialism.
-
----
-Building a pile of `systems software` over at [`stra-ta`](https://github.com/stra-ta) for the aura 🤫

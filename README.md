@@ -1,20 +1,14 @@
 <h3 align="center">Josh / Huy Vũ</h3>
-<p align="center">ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</p>
 
 <p align="center">
   <a href="https://wheevu.dev">website</a> ·
-  <code>discord: wheevu</code> ·
-  wheevu@proton.me
+  <code>wheevu@proton.me</code>
 </p>
 
 <p align="center"> 
-  지금: 오랜만에 한국어 단어 복습 중… 요즘 풀타임 프로그램도 하고 있어요~
+  Doomed creative & fume-coder 🇻🇳
+
 </p>
 
 ---
-
-**Doomed creative & maybe-one-day softwarer**. Based in Vietnam 🇻🇳
-
-Fume-coding every day. LeetCode is the light, pointers give me nightmares, don't trust unit tests.
-
-In real life, I find joy in: 짜장면, phở bò, morning americanos, [drawing my shaylas](https://instagram.com/josh.inthesketch), and some good ol' parasocialism.
+현생의 낙? 짜장면, 소고기 쌀국수, 모닝 아아, [내 샤일라들 그리기](https://instagram.com/josh.inthesketch), 그리고 역시 빠질 수 없는 유사사회적 관계 과몰입...
